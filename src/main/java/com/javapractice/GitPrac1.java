@@ -25,6 +25,7 @@ public class GitPrac1
         
         mul2Numbers(a,b);
         sum2num(a,b);
+	    mod2num(a,b);
         
         
         
@@ -36,5 +37,9 @@ public class GitPrac1
     public static void sum2num(int a, int b) {
     	long sum = a+b;
     	LOG.info("The sum of numbers "+a+" and "+b+" = "+sum);
+	}
+  public static void mod2num(int a, int b) {
+    	long mod = a%b;
+    	LOG.info("The reminder of numbers "+a+" and "+b+" = "+mod);
 	}
 }
