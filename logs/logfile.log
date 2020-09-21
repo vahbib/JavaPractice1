@@ -1,0 +1,20 @@
+INFO  | 2020-09-21 19:20:43 | [main] javapractice.AppD2 (AppD2.java:20) - Hello World! Will be printed on info
+WARN  | 2020-09-21 19:20:43 | [main] javapractice.AppD2 (AppD2.java:21) - Hello World! Will be printed on warn
+ERROR | 2020-09-21 19:20:43 | [main] javapractice.AppD2 (AppD2.java:22) - Hello World! Will be printed on error
+FATAL | 2020-09-21 19:20:43 | [main] javapractice.AppD2 (AppD2.java:23) - Hello World! Will be printed on fatal
+INFO  | 2020-09-21 19:20:43 | [main] javapractice.AppD2 (AppD2.java:24) - Appending String: Hello World!.
+DEBUG | 2020-09-21 19:21:15 | [main] javapractice.AppD2 (AppD2.java:19) - Hello World! Will be printed on Debug
+INFO  | 2020-09-21 19:21:15 | [main] javapractice.AppD2 (AppD2.java:20) - Hello World! Will be printed on info
+WARN  | 2020-09-21 19:21:15 | [main] javapractice.AppD2 (AppD2.java:21) - Hello World! Will be printed on warn
+ERROR | 2020-09-21 19:21:15 | [main] javapractice.AppD2 (AppD2.java:22) - Hello World! Will be printed on error
+FATAL | 2020-09-21 19:21:15 | [main] javapractice.AppD2 (AppD2.java:23) - Hello World! Will be printed on fatal
+INFO  | 2020-09-21 19:21:15 | [main] javapractice.AppD2 (AppD2.java:24) - Appending String: Hello World!.
+DEBUG | 2020-09-21 19:24:18 | [main] javapractice.AppD2 (AppD2.java:19) - Hello World! Will be printed on Debug
+INFO  | 2020-09-21 19:24:18 | [main] javapractice.AppD2 (AppD2.java:20) - Hello World! Will be printed on info
+WARN  | 2020-09-21 19:24:18 | [main] javapractice.AppD2 (AppD2.java:21) - Hello World! Will be printed on warn
+ERROR | 2020-09-21 19:24:18 | [main] javapractice.AppD2 (AppD2.java:22) - Hello World! Will be printed on error
+FATAL | 2020-09-21 19:24:18 | [main] javapractice.AppD2 (AppD2.java:23) - Hello World! Will be printed on fatal
+INFO  | 2020-09-21 19:24:18 | [main] javapractice.AppD2 (AppD2.java:24) - Appending String: Hello World!.
+INFO  | 2020-09-21 19:24:51 | [main] javapractice.GitPrac1 (GitPrac1.java:33) - The mul of numbers 25 and 25 = 625
+INFO  | 2020-09-21 19:26:47 | [main] javapractice.GitPrac1 (GitPrac1.java:34) - The mul of numbers 25 and 25 = 625
+INFO  | 2020-09-21 19:26:47 | [main] javapractice.GitPrac1 (GitPrac1.java:38) - The sum of numbers 25 and 25 = 50
